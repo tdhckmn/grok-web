@@ -7,14 +7,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'GROK?!',
-  tagline: 'Role Playing Game',
+  tagline: 'An adventure role-playing game where you assume the role of an adventurer in a gonzo world of boundless plausibility and use your ingenuity and resourcefulness to overcome strange and perilous threats.',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
   url: 'https://tdhckmn.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/build/',
+  baseUrl: '/grok-web/build/',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -108,7 +108,7 @@ const config = {
         copyright: `Copyright © ${new Date().getFullYear()} GROK. Built with Docusaurus.`,
       },
       prism: {
-        theme: lightCodeTheme,
+        theme: darkCodeTheme,
         darkTheme: darkCodeTheme,
       },
     }),

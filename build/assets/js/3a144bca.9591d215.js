@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgrok=self.webpackChunkgrok||[]).push([[3998],{7515:e=>{e.exports=JSON.parse('{"permalink":"/grok-web/build/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
