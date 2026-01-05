@@ -1,0 +1,162 @@
+[
+  {
+    "id": "air-boarn",
+    "name": "Air Boarn",
+    "image": "assets/images/art/Characters/air_boarn.png",
+    "description": "A mysterious aerial entity with unique abilities.",
+    "type": "Character",
+    "relatedCharacters": []
+  },
+  {
+    "id": "blademortis",
+    "name": "Blademortis",
+    "image": "assets/images/art/Characters/blademortis.png",
+    "description": "A deadly warrior wielding ancient blade techniques.",
+    "type": "Character",
+    "relatedCharacters": []
+  },
+  {
+    "id": "cassie",
+    "name": "Cassie",
+    "image": "assets/images/art/Characters/cassie.png",
+    "description": "A cunning adventurer with a knack for getting out of tight spots.",
+    "type": "Character",
+    "relatedCharacters": []
+  },
+  {
+    "id": "cursed-creeper",
+    "name": "Cursed Creeper",
+    "image": "assets/images/art/Characters/cursed_creeper.png",
+    "description": "A haunted creature lurking in the shadows.",
+    "type": "Character",
+    "relatedCharacters": []
+  },
+  {
+    "id": "duffle-hag",
+    "name": "Duffle Hag",
+    "image": "assets/images/art/Characters/duffle_hag.png",
+    "description": "An eccentric hag carrying mysterious belongings.",
+    "type": "Character",
+    "relatedCharacters": []
+  },
+  {
+    "id": "gecker-the-ambergrip",
+    "name": "Gecker the Ambergrip",
+    "image": "assets/images/art/Characters/gecker_the_ambergrip.png",
+    "description": "A fierce warrior with an iron grip.",
+    "type": "Character",
+    "relatedCharacters": []
+  },
+  {
+    "id": "henry-the-harpooned",
+    "name": "Henry the Harpooned",
+    "image": "assets/images/art/Characters/henry_the_harpooned.png",
+    "description": "A sailor with a legendary tale to tell.",
+    "type": "Character",
+    "relatedCharacters": []
+  },
+  {
+    "id": "hudson-the-handra",
+    "name": "Hudson the Handra",
+    "image": "assets/images/art/Characters/hudson_the_handra.png",
+    "description": "A skilled craftsperson from distant lands.",
+    "type": "Character",
+    "relatedCharacters": []
+  },
+  {
+    "id": "mantor-mantisman",
+    "name": "Mantor Mantisman",
+    "image": "assets/images/art/Characters/mantor_mantisman.png",
+    "description": "Half man, half mantis, all danger.",
+    "type": "Character",
+    "relatedCharacters": []
+  },
+  {
+    "id": "marianne-maulbody",
+    "name": "Marianne Maulbody",
+    "image": "assets/images/art/Characters/marianne_maulbody.png",
+    "description": "A formidable fighter with unmatched strength.",
+    "type": "Character",
+    "relatedCharacters": []
+  },
+  {
+    "id": "mason-the-mallet",
+    "name": "Mason the Mallet",
+    "image": "assets/images/art/Characters/mason_the_mallet.png",
+    "description": "A builder and brawler, master of heavy tools.",
+    "type": "Character",
+    "relatedCharacters": []
+  },
+  {
+    "id": "monstrolio",
+    "name": "Monstrolio",
+    "image": "assets/images/art/Characters/monstrolio.png",
+    "description": "A bizarre creature from beyond comprehension.",
+    "type": "Character",
+    "relatedCharacters": []
+  },
+  {
+    "id": "potion-of-heroism",
+    "name": "Potion of Heroism",
+    "image": "assets/images/art/Characters/potion_of_heroism.png",
+    "description": "A magical elixir that grants temporary courage and strength.",
+    "type": "Item",
+    "relatedCharacters": []
+  },
+  {
+    "id": "rautomaton",
+    "name": "Rautomaton",
+    "image": "assets/images/art/Characters/rautomaton.png",
+    "description": "A mechanical being with advanced capabilities.",
+    "type": "Character",
+    "relatedCharacters": []
+  },
+  {
+    "id": "rear-deflector-shield-power-source",
+    "name": "Rear Deflector Shield Power Source",
+    "image": "assets/images/art/Characters/rear_deflector_shield_power_source.png",
+    "description": "A critical component for protective energy barriers.",
+    "type": "Item",
+    "relatedCharacters": []
+  },
+  {
+    "id": "sorcerobot",
+    "name": "Sorcerobot",
+    "image": "assets/images/art/Characters/sorcerobot.png",
+    "description": "A magical automaton combining technology and sorcery.",
+    "type": "Character",
+    "relatedCharacters": []
+  },
+  {
+    "id": "star-dough",
+    "name": "Star-Dough",
+    "image": "assets/images/art/Characters/star-dough.png",
+    "description": "A celestial substance with mysterious properties.",
+    "type": "Item",
+    "relatedCharacters": []
+  },
+  {
+    "id": "storm-blooded",
+    "name": "Storm Blooded",
+    "image": "assets/images/art/Characters/storm_blooded.png",
+    "description": "Born of tempests, wielding the power of storms.",
+    "type": "Character",
+    "relatedCharacters": []
+  },
+  {
+    "id": "the-martian-blade",
+    "name": "The Martian Blade",
+    "image": "assets/images/art/Characters/the_martian_blade.png",
+    "description": "An otherworldly weapon forged on the red planet.",
+    "type": "Item",
+    "relatedCharacters": []
+  },
+  {
+    "id": "wartrait-painter",
+    "name": "Wartrait Painter",
+    "image": "assets/images/art/Characters/wartrait_painter.png",
+    "description": "An artist who captures the essence of warriors.",
+    "type": "Character",
+    "relatedCharacters": []
+  }
+]
