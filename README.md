@@ -1,10 +1,10 @@
-# Grok?! Zine - Gander Gaming
+# Gander Gaming Website
 
-A modern, responsive website for the Grok?! tabletop RPG game, built with vanilla HTML, CSS, and JavaScript for easy hosting on GitHub Pages.
+A modern, responsive website for Gander Gaming, an indie RPG publisher, featuring the platinum bestseller Grok?! Built with vanilla HTML, CSS, and JavaScript for easy hosting on GitHub Pages.
 
-## About Grok?!
+## About Gander Gaming
 
-Grok?! is an adventure RPG game that emphasizes player ingenuity and creative problem-solving in a gonzo world of limitless plausibility.
+Gander Gaming is an indie game publishing company founded by Lester Burton in 2021. Since the first commercial release of the now platinum bestseller Grok?!, we've been committed to creating inspiring games, tools, and adventures to help bring the imagined world in your head to the gaming table.
 
 ## Features
 
@@ -19,15 +19,23 @@ Grok?! is an adventure RPG game that emphasizes player ingenuity and creative pr
 - **GitHub Pages Ready** - Optimized for easy deployment
 - **Custom Logos** - Integrated Gander Gaming and Grok?! branding
 
-## Structure
+## Site Structure
+
+The website is organized as follows:
+
+- **index.html** - Main Gander Gaming homepage showcasing the company and games
+- **grok.html** - Dedicated Grok?! game hub with resources and information
+- **characters.html** - Character database for Grok?!
+- **character-detail.html** - Individual character detail pages
 
 ```
 grok-web/
-├── index.html                # Main homepage
+├── index.html                # Gander Gaming homepage
+├── grok.html                 # Grok?! game hub
 ├── characters.html           # Character list page
 ├── character-detail.html     # Individual character page template
 ├── styles.css                # All styles and responsive design
-├── script.js                 # JavaScript for homepage
+├── script.js                 # JavaScript for interactions
 ├── characters.js             # JavaScript for character list
 ├── character-detail.js       # JavaScript for character details
 ├── data/
